@@ -8,7 +8,7 @@ KHUDA는 경희대학교의 데이터 분석 동아리입니다.
 
 KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는** 문화를 추구합니다.
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>](https://www.instagram.com/khu_da_23)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>](https://www.instagram.com/khu_da.official)
 [<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>](https://github.com/khuda-4th)
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>](https://khuda.notion.site/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4)
 
