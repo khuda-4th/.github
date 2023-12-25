@@ -10,7 +10,7 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 [<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>](https://github.com/khuda-4th)
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>](https://khuda.notion.site/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4)
 
-$\bf{{\color{#808080}2023.08\ ~\ 2023.12\ 4th\ Certificated}}$
+$\bf{{\color{#808080}2023.08\ -\ 2023.12\ 4th\ Certificated}}$
 
 ![쿠다-4기-컨퍼런스-및-수료식-발표-PPT-001](https://github.com/khuda-4th/.github/assets/90135669/05e6dce7-466c-4576-9638-065493499404)
 
